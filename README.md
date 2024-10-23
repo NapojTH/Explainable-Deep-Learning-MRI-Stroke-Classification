@@ -9,6 +9,7 @@ Neuroscience Lab at Chulalongkorn University).
 1. Learning the basic on how to preprocess the MRI(Flair) file(NIFTI) for Machine learning/Deep learning model using FSL
 2. Research and develop a model for MRI Stroke Classification 
 3. Identify approaches for making the model developed for the task to be explainable
+
 Extra: Plan future direction for the project, since the data provided from the open source with variety of data type so there is a possibility to working with this dataset in the future.
 
 ### Tools:
