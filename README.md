@@ -45,5 +45,5 @@ Full process explanation and future direction can be found on this medium post:T
 2. https://fsl.fmrib.ox.ac.uk/fsl/docs/#/
 3. https://open.win.ox.ac.uk/pages/fslcourse/website/online_materials.html#topic_registration
 4. https://openneuro.org/datasets/ds004889/versions/1.1.2
-5.https://paperswithcode.com/method/densenet
-6.https://paperswithcode.com/task/unet-segmentation
+5. https://paperswithcode.com/method/densenet
+6. https://paperswithcode.com/task/unet-segmentation
